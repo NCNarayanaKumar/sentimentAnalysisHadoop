@@ -1,0 +1,639 @@
+a	15
+
+abbc	1
+
+abstwimgcomimagesthemesthemebggif	1
+
+accoun	1
+
+ackgroundimagesjsnyisnpng	1
+
+acting	1
+
+amp	2
+
+anand	2
+
+and	1
+
+androida	1
+
+apr	1
+
+are	1
+
+asian	1
+
+asso	1
+
+at	1
+
+atlant	1
+
+aug	1
+
+azhar	2
+
+b	6
+
+balraj	1
+
+balrajyadav	1
+
+between	1
+
+bit	2
+
+brisbane	1
+
+c	2
+
+cambridge	1
+
+canada	1
+
+canberra	1
+
+case	2
+
+cdeed	5
+
+che	1
+
+china	2
+
+ciate	1
+
+cka	1
+
+clienta	1
+
+congress	1
+
+contributors	4
+
+contributorsenabled	4
+
+coordinates	4
+
+count	1
+
+createdat	8
+
+cxfkqnormaljpg	1
+
+d	2
+
+ddee	1
+
+ddeef	2
+
+de	1
+
+declaring	2
+
+defaultprofile	3
+
+defaultprofileimage	4
+
+delhi	1
+
+description	4
+
+director	1
+
+displayurl	1
+
+djfqjnormaljpg	1
+
+does	4
+
+drianhall	1
+
+e	2
+
+eaders	1
+
+ebannerurl	1
+
+ed	1
+
+eimageurl	1
+
+el	1
+
+emebgpng	1
+
+en	8
+
+endorsements	1
+
+enname	1
+
+entions	1
+
+entities	4
+
+eo	1
+
+et	1
+
+eusebackgroundimage	1
+
+expandedurl	1
+
+f	1
+
+fal	1
+
+false	45
+
+faultprofile	1
+
+favoritecount	4
+
+favorited	4
+
+favourites	1
+
+favouritescount	3
+
+feb	1
+
+ffffff	1
+
+filebackgroundimageurl	1
+
+fileimagesolywpjnormaljpg	1
+
+filterlev	1
+
+filterlevel	3
+
+focusing	1
+
+followerscount	4
+
+following	4
+
+followrequestsent	4
+
+for	2
+
+fore	1
+
+friendscount	4
+
+g	1
+
+gaigriffith	1
+
+geo	3
+
+geoenab	1
+
+geoenabled	3
+
+gesbloslhqnormalpng	1
+
+griffithacademiaeduianhall	1
+
+griffithsgir	1
+
+h	1
+
+hall	1
+
+hashtags	4
+
+headers	1
+
+hemebgpng	1
+
+hindu	2
+
+hinducomopinionleadtu	1
+
+history	1
+
+hrefhttpsabouttwittercomproductstweetdeck	1
+
+hrefhttptwittercom	1
+
+hrefhttptwittercomdownloadandroid	1
+
+hrefhttptwittercomdownloadiphone	1
+
+http	1
+
+httpabstwimgcomimagesthemesthemebggif	1
+
+httpabstwimgcomimagesthemesthemebgpng	2
+
+httppbstwimgcomprof	1
+
+httppbstwimgcomprofileb	1
+
+httppbstwimgcomprofileimages	1
+
+httppbstwimgcomprofileimagesdjfqjnor	1
+
+httppbstwimgcomprofileimagesrcxfkqn	1
+
+https	1
+
+httpsabstwimgcomimagesthemest	1
+
+httpsabstwimgcomimagesthemesth	1
+
+httpspbs	1
+
+httpspbstwimgcompro	1
+
+httpspbstwimgcomprofilebanners	2
+
+httpspbstwimgcomprofileima	1
+
+httpspbstwimgcomprofileimages	1
+
+httpspbstwimgcomprofileimagesr	1
+
+httpstcoypz	1
+
+httpstcoypzleusaf	1
+
+httpsu	1
+
+httpwwwincin	1
+
+httpwwwthehinducomopinio	1
+
+ia	1
+
+ian	1
+
+ic	1
+
+id	12
+
+idebarbordercolor	1
+
+idstr	12
+
+ign	1
+
+ileimagesbloslhqnormalpng	1
+
+ileimageurlhttps	1
+
+imageurl	1
+
+imperative	2
+
+in	4
+
+inc	2
+
+inci	2
+
+incind	1
+
+incindia	1
+
+india	5
+
+indian	2
+
+indias	3
+
+indices	5
+
+inrepl	1
+
+inreplyt	1
+
+inreplytoscreenname	3
+
+inreplytostat	1
+
+inreplytostatusid	3
+
+inreplytostatusidstr	3
+
+inreplytouse	1
+
+inreplytouserid	3
+
+inreplytouseridstr	3
+
+international	2
+
+iphonea	1
+
+is	2
+
+isquotestat	1
+
+isquotestatus	3
+
+istranslator	4
+
+it	2
+
+lang	8
+
+led	1
+
+leusaf	1
+
+listedcount	4
+
+ll	1
+
+lnofollowtwitter	1
+
+location	4
+
+lot	1
+
+low	4
+
+maljpg	1
+
+mar	1
+
+masood	2
+
+massachusetts	1
+
+mean	2
+
+mit	1
+
+mon	4
+
+most	1
+
+movement	1
+
+my	2
+
+name	9
+
+nara	1
+
+narang	2
+
+narangvipin	2
+
+national	1
+
+nd	1
+
+ndia	2
+
+new	1
+
+ngvipin	1
+
+nleadthelinesthathavebeencrossedarticleece	1
+
+nnai	1
+
+nname	1
+
+not	3
+
+notifications	4
+
+nu	1
+
+nuclear	1
+
+null	48
+
+oct	4
+
+of	8
+
+off	2
+
+official	1
+
+olor	1
+
+olywpjnormaljpg	1
+
+on	3
+
+ormaljpg	1
+
+ostatusid	1
+
+place	4
+
+policy	1
+
+political	2
+
+possiblysensitive	1
+
+pro	1
+
+prof	1
+
+professor	2
+
+profil	3
+
+profile	1
+
+profilebackgroundcolor	4
+
+profilebackgroundimageu	1
+
+profilebackgroundimageurl	2
+
+profilebackgroundimageurlhttps	4
+
+profilebackgroundtile	4
+
+profilebannerurl	1
+
+profileimageurl	2
+
+profileimageurlhttps	3
+
+profilelinkcolor	4
+
+profiles	1
+
+profilesideba	1
+
+profilesidebarbordercolor	2
+
+profilesidebarfillcolor	4
+
+profiletextc	1
+
+profiletextcolor	3
+
+profileusebackgroundimag	1
+
+profileusebackgroundimage	2
+
+proliferation	1
+
+protected	4
+
+rbordercolor	1
+
+re	1
+
+relations	1
+
+relnofollowtweetde	1
+
+relnofollowtwitter	2
+
+replytoscreenname	1
+
+ret	1
+
+retweetcount	3
+
+retweete	1
+
+retweeted	3
+
+retweetedstat	1
+
+retweetedstatus	1
+
+rid	1
+
+rl	1
+
+rt	3
+
+s	1
+
+science	1
+
+scre	1
+
+scree	1
+
+screen	1
+
+screenname	5
+
+se	1
+
+security	1
+
+sharma	2
+
+some	2
+
+sourc	1
+
+source	3
+
+south	1
+
+statusescoun	1
+
+statusescount	3
+
+str	1
+
+strategy	1
+
+strike	2
+
+sun	1
+
+surgical	2
+
+symbols	4
+
+t	3
+
+takes	2
+
+terroris	1
+
+terrorist	1
+
+text	4
+
+that	2
+
+the	7
+
+thehindu	4
+
+thought	1
+
+thoughts	2
+
+thu	1
+
+time	1
+
+timestampms	2
+
+timezone	4
+
+tmrws	2
+
+true	7
+
+truncated	4
+
+twimgcomprofilebackgroundimagesjsnyisnpng	1
+
+twitter	1
+
+up	2
+
+url	5
+
+urls	4
+
+us	2
+
+user	4
+
+userm	1
+
+usermentions	3
+
+usid	1
+
+utcoffs	1
+
+utcoffset	3
+
+verified	4
+
+vibrant	1
+
+vipin	2
+
+w	1
+
+web	1
+
+wed	1
+
+weetcount	1
+
+what	2
+
+with	2
+
+yadav	1
+
+ytouseridstr	1

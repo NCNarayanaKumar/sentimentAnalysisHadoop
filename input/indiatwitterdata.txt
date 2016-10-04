@@ -1,0 +1,125 @@
+{"favorited": false, "contributors": null, "truncated": false, "text": "RT @Nara
+ngVipin: Some of my thoughts on what India's \"surgical strike\" does &amp; does
+ not mean in tmrw's @TheHindu (headers bit off): https://\u2026", "is_quote_stat
+us": false, "in_reply_to_status_id": null, "user": {"follow_request_sent": null,
+ "profile_use_background_image": false, "default_profile_image": false, "id": 27
+407990, "verified": false, "profile_image_url_https": "https://pbs.twimg.com/pro
+file_images/759242746938920961/OLy97WPJ_normal.jpg", "profile_sidebar_fill_color
+": "000000", "profile_text_color": "000000", "followers_count": 2542, "profile_s
+idebar_border_color": "000000", "id_str": "27407990", "profile_background_color"
+: "000000", "listed_count": 131, "profile_background_image_url_https": "https://
+abs.twimg.com/images/themes/theme14/bg.gif", "utc_offset": 39600, "statuses_coun
+t": 22525, "description": "Professor of International Relations, @Griffith_SGIR
+| Acting Director, @GAIGriffith | History of international thought | Indian fore
+ign policy", "friends_count": 1977, "location": "Brisbane ", "profile_link_color
+": "ABB8C2", "profile_image_url": "http://pbs.twimg.com/profile_images/759242746
+938920961/OLy97WPJ_normal.jpg", "following": null, "geo_enabled": false, "profil
+e_banner_url": "https://pbs.twimg.com/profile_banners/27407990/1468638904", "pro
+file_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+ "name": "Ian Hall", "lang": "en", "profile_background_tile": false, "favourites
+_count": 1352, "screen_name": "DrIanHall", "notifications": null, "url": "http:/
+/griffith.academia.edu/IanHall", "created_at": "Sun Mar 29 10:34:41 +0000 2009",
+ "contributors_enabled": false, "time_zone": "Canberra", "protected": false, "de
+fault_profile": false, "is_translator": false}, "filter_level": "low", "geo": nu
+ll, "id": 783057027937415168, "favorite_count": 0, "lang": "en", "retweeted_stat
+us": {"contributors": null, "truncated": false, "text": "Some of my thoughts on
+what India's \"surgical strike\" does &amp; does not mean in tmrw's @TheHindu (h
+eaders bit off): https://t.co/YPzLe9USaF", "is_quote_status": false, "in_reply_t
+o_status_id": null, "id": 783049787943821315, "favorite_count": 6, "source": "<a
+ href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "retweete
+d": false, "coordinates": null, "entities": {"user_mentions": [{"id": 177829660,
+ "indices": [89, 98], "id_str": "177829660", "screen_name": "TheHindu", "name":
+"The Hindu"}], "symbols": [], "hashtags": [], "urls": [{"url": "https://t.co/YPz
+Le9USaF", "indices": [118, 141], "expanded_url": "http://www.thehindu.com/opinio
+n/lead/the-lines-that-have-been-crossed/article9180988.ece", "display_url": "the
+hindu.com/opinion/lead/t\u2026"}]}, "in_reply_to_screen_name": null, "id_str": "
+783049787943821315", "retweet_count": 6, "in_reply_to_user_id": null, "favorited
+": false, "user": {"follow_request_sent": null, "profile_use_background_image":
+true, "default_profile_image": false, "id": 1707281120, "verified": false, "prof
+ile_image_url_https": "https://pbs.twimg.com/profile_images/782945823835426816/r
+C2_XfKQ_normal.jpg", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color
+": "333333", "followers_count": 2657, "profile_sidebar_border_color": "C0DEED",
+"id_str": "1707281120", "profile_background_color": "C0DEED", "listed_count": 10
+1, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/th
+eme1/bg.png", "utc_offset": -10800, "statuses_count": 2999, "description": "Asso
+ciate professor of political science at MIT, focusing on nuclear proliferation a
+nd strategy, South Asian security, and a lot in between.", "friends_count": 263,
+ "location": "Cambridge, Massachusetts", "profile_link_color": "0084B4", "profil
+e_image_url": "http://pbs.twimg.com/profile_images/782945823835426816/rC2_XfKQ_n
+ormal.jpg", "following": null, "geo_enabled": false, "profile_background_image_u
+rl": "http://abs.twimg.com/images/themes/theme1/bg.png", "name": "Vipin Narang",
+ "lang": "en", "profile_background_tile": false, "favourites_count": 1037, "scre
+en_name": "NarangVipin", "notifications": null, "url": null, "created_at": "Wed
+Aug 28 13:16:43 +0000 2013", "contributors_enabled": false, "time_zone": "Atlant
+ic Time (Canada)", "protected": false, "default_profile": true, "is_translator":
+ false}, "geo": null, "in_reply_to_user_id_str": null, "possibly_sensitive": fal
+se, "lang": "en", "created_at": "Mon Oct 03 21:03:12 +0000 2016", "filter_level"
+: "low", "in_reply_to_status_id_str": null, "place": null}, "entities": {"user_m
+entions": [{"id": 1707281120, "indices": [3, 15], "id_str": "1707281120", "scree
+n_name": "NarangVipin", "name": "Vipin Narang"}, {"id": 177829660, "indices": [1
+06, 115], "id_str": "177829660", "screen_name": "TheHindu", "name": "The Hindu"}
+], "symbols": [], "hashtags": [], "urls": []}, "in_reply_to_user_id_str": null,
+"retweeted": false, "coordinates": null, "timestamp_ms": "1475530318613", "sourc
+e": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for
+ iPhone</a>", "in_reply_to_status_id_str": null, "in_reply_to_screen_name": null
+, "id_str": "783057027937415168", "place": null, "retweet_count": 0, "created_at
+": "Mon Oct 03 21:31:58 +0000 2016", "in_reply_to_user_id": null}
+{"favorited": false, "contributors": null, "truncated": false, "text": "RT @INCI
+ndia: It is imperative that India takes up the case of declaring Masood Azhar a
+terrorist with China: Anand Sharma", "is_quote_status": false, "in_reply_to_stat
+us_id": null, "user": {"follow_request_sent": null, "profile_use_background_imag
+e": true, "default_profile_image": false, "id": 3180412680, "verified": false, "
+profile_image_url_https": "https://pbs.twimg.com/profile_images/6041998325136998
+40/D65jfQ-j_normal.jpg", "profile_sidebar_fill_color": "DDEEF6", "profile_text_c
+olor": "333333", "followers_count": 170, "profile_sidebar_border_color": "C0DEED
+", "id_str": "3180412680", "profile_background_color": "C0DEED", "listed_count":
+ 3, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/t
+heme1/bg.png", "utc_offset": null, "statuses_count": 4145, "description": null,
+"friends_count": 28, "location": null, "profile_link_color": "0084B4", "profile_
+image_url": "http://pbs.twimg.com/profile_images/604199832513699840/D65jfQ-j_nor
+mal.jpg", "following": null, "geo_enabled": false, "profile_background_image_url
+": "http://abs.twimg.com/images/themes/theme1/bg.png", "name": "Balraj Yadav", "
+lang": "en", "profile_background_tile": false, "favourites_count": 1527, "screen
+_name": "BalrajYadav57", "notifications": null, "url": null, "created_at": "Thu
+Apr 30 10:21:41 +0000 2015", "contributors_enabled": false, "time_zone": null, "
+protected": false, "default_profile": true, "is_translator": false}, "filter_lev
+el": "low", "geo": null, "id": 783057036141555713, "favorite_count": 0, "lang":
+"en", "retweeted_status": {"contributors": null, "truncated": false, "text": "It
+ is imperative that India takes up the case of declaring Masood Azhar a terroris
+t with China: Anand Sharma", "is_quote_status": false, "in_reply_to_status_id":
+782898783939993600, "id": 782899728040075264, "favorite_count": 45, "source": "<
+a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDe
+ck</a>", "retweeted": false, "coordinates": null, "entities": {"user_mentions":
+[], "symbols": [], "hashtags": [], "urls": []}, "in_reply_to_screen_name": "INCI
+ndia", "id_str": "782899728040075264", "retweet_count": 65, "in_reply_to_user_id
+": 1153045459, "favorited": false, "user": {"follow_request_sent": null, "profil
+e_use_background_image": true, "default_profile_image": false, "id": 1153045459,
+ "verified": true, "profile_image_url_https": "https://pbs.twimg.com/profile_ima
+ges/543035805329936384/blOS9Lhq_normal.png", "profile_sidebar_fill_color": "DDEE
+F6", "profile_text_color": "333333", "followers_count": 1279043, "profile_sideba
+r_border_color": "FFFFFF", "id_str": "1153045459", "profile_background_color": "
+C0DEED", "listed_count": 882, "profile_background_image_url_https": "https://pbs
+.twimg.com/profile_background_images/444813089033031680/jSNy_isN.png", "utc_offs
+et": 19800, "statuses_count": 32627, "description": "The Official Twitter Accoun
+t of India's Most Vibrant Political Movement - The Indian National Congress | RT
+'s are Not Endorsements", "friends_count": 2301, "location": "New Delhi, India",
+ "profile_link_color": "0084B4", "profile_image_url": "http://pbs.twimg.com/prof
+ile_images/543035805329936384/blOS9Lhq_normal.png", "following": null, "geo_enab
+led": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153045
+459/1473322798", "profile_background_image_url": "http://pbs.twimg.com/profile_b
+ackground_images/444813089033031680/jSNy_isN.png", "name": "INC India", "lang":
+"en", "profile_background_tile": false, "favourites_count": 719, "screen_name":
+"INCIndia", "notifications": null, "url": "http://www.inc.in/", "created_at": "W
+ed Feb 06 05:45:31 +0000 2013", "contributors_enabled": false, "time_zone": "Che
+nnai", "protected": false, "default_profile": false, "is_translator": false}, "g
+eo": null, "in_reply_to_user_id_str": "1153045459", "lang": "en", "created_at":
+"Mon Oct 03 11:06:55 +0000 2016", "filter_level": "low", "in_reply_to_status_id_
+str": "782898783939993600", "place": null}, "entities": {"user_mentions": [{"id"
+: 1153045459, "indices": [3, 12], "id_str": "1153045459", "screen_name": "INCInd
+ia", "name": "INC India"}], "symbols": [], "hashtags": [], "urls": []}, "in_repl
+y_to_user_id_str": null, "retweeted": false, "coordinates": null, "timestamp_ms"
+: "1475530320569", "source": "<a href=\"http://twitter.com/download/android\" re
+l=\"nofollow\">Twitter for Android</a>", "in_reply_to_status_id_str": null, "in_
+reply_to_screen_name": null, "id_str": "783057036141555713", "place": null, "ret
+weet_count": 0, "created_at": "Mon Oct 03 21:32:00 +0000 2016", "in_reply_to_use
+r_id": null}
